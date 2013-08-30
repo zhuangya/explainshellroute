@@ -1,0 +1,22 @@
+{
+  "name": "explainshellroute",
+  "version": "0.0.0",
+  "description": "a proxy for alfred to work with explainshell.com",
+  "main": "server.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "npm test",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "proxy",
+    "alfred"
+  ],
+  "author": "Ya Zhuang <ZhuangYa@gmail.com>",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "vows": "~0.7.0"
+  }
+}
