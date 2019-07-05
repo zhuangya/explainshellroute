@@ -17,6 +17,6 @@
   "author": "Ya Zhuang <ZhuangYa@gmail.com>",
   "license": "BSD-2-Clause",
   "dependencies": {
-    "vows": "~0.7.0"
+    "vows": "~0.8.2"
   }
 }
